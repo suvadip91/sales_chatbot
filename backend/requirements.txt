@@ -2,3 +2,5 @@ fastapi
 uvicorn[standard]
 httpx
 python-dotenv
+langchain
+langchain-groq
